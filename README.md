@@ -1,2 +1,3 @@
 # WaveformPreview_EN
-A translated plugin to show waveform preview's on AviUtl.
+Original JP Ver: https://github.com/karoterra/aviutl_WaveformPreview
+Programs used: HxD, Resource Hacker
